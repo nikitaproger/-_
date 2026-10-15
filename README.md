@@ -1,6 +1,6 @@
 # Алгоритмы и структуры данных
 ### лабараторные работы :
-- [lab_1_srtir](lab_1_srtir.md)
+- [lab_1_srtir](lab_1_srtir/lab_1_srtir.md)
 - [lab2](lab2)
 - [lab3](lab3)
 ### лабараторна работа 1:
